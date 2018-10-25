@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Runtime.Caching;
 
-namespace Grodi_Cache_Engine.EngineUtilities
+namespace Istianne_Izzy.EngineUtilities
 {
     public static class Helper
     {
